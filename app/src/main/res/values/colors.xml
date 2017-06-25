@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorBlack">#000</color>
+    <color name="bgLogo">#f67122</color>
+    <color name="colorFacebook">#4a6ea9</color>
+    <color name="colorGoogle">#da4835</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGray">#afaeae</color>
+    <color name="color_background_sign_up_button">#E6307E6C</color>
+    <color name="color_button_background_nav_sign_out">#9EA9A7</color>
+    <color name="color_border_button">#939393</color>
+    <color name="color_border_button_light">#CEC5B8</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatXe</string>
+
+    <string name="txt_login">Log in</string>
+    <string name="txt_signup">Sign up</string>
+    <string name="btn_text_login">Log in</string>
+    <string name="btn_text_signup">Sign up</string>
+</resources>
